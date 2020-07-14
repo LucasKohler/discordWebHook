@@ -1,3 +1,3 @@
 # discordWebHook
-Teste de WebHook conectando ao ser vidor discord.
+Teste de WebHook conectado a um servidor no discord.
 
